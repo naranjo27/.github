@@ -1,5 +1,14 @@
 # Titanes Rugby Club
-
+# Herramientas a Utilizar
+- Reactjs para el Front
+- tailwindcss para los styles
+- Typescript para el code
+- mongoDB la base de datos
+- Python o nextjs para el back
+- API Rest o graphQL par la comunicación 
+- cloudinary para las imágenes y videos 
+- algo de CDN o cloudflare
+  
 <!--
 
 **Here are some ideas to get you started:**
